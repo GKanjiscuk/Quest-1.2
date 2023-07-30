@@ -1,0 +1,41 @@
+@media (max-width: 1440px) {
+    .main img {
+        width: 100%;
+    }
+}
+
+@media (max-width: 768px){
+
+    .main {
+        flex-direction: column;
+        
+    }
+
+
+    .container .social i{
+        font-size: 28px;
+    }
+
+    .main {
+        flex-direction: column;
+        text-align: center;}
+
+    .social {
+        text-align: center;
+        margin-top: 50px;}
+    
+    .main-text h1 {
+        font-size: 26px;
+    }
+
+        
+    .register-btn {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+    }
+
+
+}
+
